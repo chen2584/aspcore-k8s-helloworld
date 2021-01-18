@@ -1,4 +1,4 @@
-# api-k8s-helloworld
+# aspcore-k8s-helloworld
 
 ### Resources
 - 
